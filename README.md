@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 I'm Giang. Currently wrapping up my last year as a Computer Science major/Math minor at the University of Cincinnati. \
 I love all things math and computer science related. Lately, most of my interests lies with compiler, blockchain and cryptography.
 
-Contacts:
-[LinkedIn](https://www.linkedin.com/in/giang-ta-13b01515a/)
-[Twitter](https://twitter.com/gianghta)
+## 📫  Contacts:
+- [LinkedIn](https://www.linkedin.com/in/giang-ta-13b01515a/)
+- [Twitter](https://twitter.com/gianghta)
 
 Feel free to look around!
 
