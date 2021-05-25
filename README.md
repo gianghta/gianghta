@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Giang. Currently wrapping up my last year as a Computer Science major/Math minor at the University of Cincinnati.
+I'm Giang. Graduated Computer Science major/Math minor at the University of Cincinnati.
 
 ## 📫  Contacts:
 - [LinkedIn](https://www.linkedin.com/in/giang-ta-13b01515a/)
